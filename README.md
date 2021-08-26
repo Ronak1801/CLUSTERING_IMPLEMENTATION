@@ -4,9 +4,7 @@ K-Means clustering is a method of vector quantization, originally from signal pr
 Implement KMeans Clustering Algorithm over the dataset given below. Make sure you also plot the scatter chart for the same.
 
 Dataset:
-https://docs.google.com/spreadsheets/d/16uIbDGfyTZ6XUk7ScCcU28ueEj_Fr
-wl8/edit?usp=sharing&ouid=108584622572387237651&rtpof=true&sd=true
+https://docs.google.com/spreadsheets/d/16uIbDGfyTZ6XUk7ScCcU28ueEj_Frwl8/edit#gid=97762001
 
 Reference:
-https://towardsdatascience.com/understanding-k-means-clustering-in-ma
-chine-learning-6a6e67336aa1
+https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
